@@ -9,6 +9,8 @@
 
 
 
+
+
 .main-seciton {
     margin: 0 auto;
     justify-content: center;
@@ -26,13 +28,42 @@
     border-radius: 20px;
     border: 1px solid #EBEBEB;
     background: #FFF;
-=======
+
 .section__food .container{
     margin: 0 auto;
 }
+
 .conatiner{
     max-width: 1350px;
     width: 100%;
+}
+.section__food .conatiner{
+    text-align: center;
+}
+.card_title{
+    margin-top: 36px;
+    margin-bottom: 18px;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+}
+
+.cards{
+   display: flex;
+   justify-content: center;
+   column-gap: 50px;
+}
+
+.card_txt{
+   max-width: 270px;
+   width: 100%;
+   font-size: 18px;
+   display: flex;
+}
+.card_img{
+    margin: 0 auto;
+    display: flex;
+    margin-top: 60px;
 }
 .section_title{
     text-align: center;
@@ -45,4 +76,19 @@
     font-size: 24px;
     font-weight: 700;
     margin-top: 15px;
+}
+.card_2-title{
+    font-size: 44px;
+    font-weight: 700;
+    text-align: center;
+}
+.card_2-txt{
+    color: #545454;
+    margin-top: 20px;
+}
+.cards2{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    column-gap: 100px;
 }
