@@ -1,8 +1,46 @@
-@import 'fonts.css';
+@import "fonts.css";
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'roboto';
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "roboto";
+}
+.footer__big-desc{
+   
+    
+}
+.footer__wrap{
+   
+   
+}
+.wrap-wrap{
+    display: flex;
+    flex-direction: column;
+}
+.wrap-wrap-small{
+    display: flex;
+}
+.footer__big-h{
+    padding-bottom: 34px;
+}
+.footer__big-h {
+  font-family: "roboto";
+  font-weight: 700;
+}
+.footer__small-h {
+  font-family: "roboto";
+  font-weight: 400;
+}
+.small__menu-h {
+  font-family: "roboto";
+  font-weight: 700;
+}
+.small__menu-p{
+    font-family: "roboto";
+    font-weight: 400;
+}
+.wrap__wrap-p{
+    font-family: "roboto";
+    font-weight: 400;
 }
