@@ -6,6 +6,27 @@
     box-sizing: border-box;
     font-family: 'roboto';
 }
+
+
+
+.main-seciton {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.father-div {
+    display: flex;
+}
+
+.cards-lar {
+    margin-right: 10px;
+    max-width: 356px;
+    width: 100%;
+    height: 520px;
+    border-radius: 20px;
+    border: 1px solid #EBEBEB;
+    background: #FFF;
+=======
 .section__food .container{
     margin: 0 auto;
 }
