@@ -6,14 +6,7 @@
   box-sizing: border-box;
   font-family: "roboto";
 }
-.footer__big-desc{
-   
-    
-}
-.footer__wrap{
-   
-   
-}
+
 .wrap-wrap{
     display: flex;
     flex-direction: column;
